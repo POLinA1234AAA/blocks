@@ -1,0 +1,16 @@
+{
+  "containerSize": { "width": 600, "height": 400 },
+  "blocks": [
+    { "width": 90, "height": 90, "initialOrder": 1 },
+    { "width": 60, "height": 115, "initialOrder": 2 },
+    { "width": 120, "height": 80, "initialOrder": 3 },
+    { "width": 50, "height": 70, "initialOrder": 4 },
+    { "width": 80, "height": 100, "initialOrder": 5 },
+    { "width": 90, "height": 90, "initialOrder": 1 },
+    { "width": 60, "height": 115, "initialOrder": 2 },
+    { "width": 120, "height": 80, "initialOrder": 3 },
+    { "width": 50, "height": 70, "initialOrder": 4 },
+    { "width": 80, "height": 100, "initialOrder": 5 }
+
+  ]
+}
